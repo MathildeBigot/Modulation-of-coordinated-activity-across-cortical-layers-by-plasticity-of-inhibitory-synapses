@@ -1,1 +1,1 @@
-# Modulation-of-coordinated-activity-across-cortical-layers-by-plasticity-of-inhibitory-synapses
+# Supplementary code for the paper "Modulation of coordinated activity across cortical layers by plasticity of inhibitory synapses" by Joana Lourenço, Charlotte Deleuze, Mathilde Bigot, Antonio Pazienti, Andrea Aguirre, Srdjan Ostojic and Alberto Bacci 
